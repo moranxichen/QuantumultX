@@ -2,6 +2,9 @@
     "name": "QX Scripts All",
     "description": "QX Task Gallery by Peng-YM",
     "task": [
+        "4 5 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mcdd/mcdd.js, tag=叮咚买菜, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/ddmc.png",
+        "4 5 * * * https://raw.githubusercontent.com/iepngs/Script/master/dingdong/index.js, tag=叮咚农场, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/ddmc.png",
+        "8 5 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=哔哩哔哩, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/bilibili.png",
         "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/task/master/52pj.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/task/master/tieba.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js, tag=哔哩哔哩漫画, img-url=https://raw.githubusercontent.com/Orz-3/task/master/manga.png, enabled=false",
