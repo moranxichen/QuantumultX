@@ -86,6 +86,6 @@
         "0 9 * * * https://raw.githubusercontent.com/moranxichen/QuantumultX-1/master/lxk0301/jd_moneyTree.js, tag=京东摇钱树, img-url=https://raw.githubusercontent.com/moranxichen/QuantumultX-1/master/lxk0301/icon/jd_pet.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com/moranxichen/QuantumultX-1/master/lxk0301/jd_superMarket.js, tag=京小超, img-url=https://raw.githubusercontent.com/moranxichen/QuantumultX-1/master/lxk0301/icon/jd_pet.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com/moranxichen/QuantumultX-1/master/lxk0301/jd_blueCoin.js, tag=京小超领蓝币(兑换京豆), img-url=https://raw.githubusercontent.com/moranxichen/QuantumultX-1/master/lxk0301/icon/jd_pet.png, enabled=false",
-        "0 9 * * * https://raw.githubusercontent.com/moranxichen/QuantumultX-1/master/lxk0301/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/moranxichen/QuantumultX-1/master/lxk0301/icon/jd_pet.png, enabled=false",
+        "0 9 * * * https://raw.githubusercontent.com/moranxichen/QuantumultX-1/master/lxk0301/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/moranxichen/QuantumultX-1/master/lxk0301/icon/jd_pet.png, enabled=false"
     ]
 }
